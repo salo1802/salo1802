@@ -10,4 +10,4 @@
 **Featured work:**
 - [piloto_triage](https://github.com/salo1802/piloto_triage) — AI triage agent for a 1,400-applicant/year program (LLM diagnosis + RAG + automated reports)
 - [IAn](https://github.com/salo1802/IAn_0.5) — conversational financial assistant: LLM for language, deterministic Python for the math
-- [Alexandria](https://github.com/salo1802/alexandria) — multi-API visual analysis pipeline (Selenium → Cloud Vision → LLM → Firestore)
+- [Alexandria](https://github.com/salo1802/alexandria2) — multi-API visual analysis pipeline (Selenium → Cloud Vision → LLM → Firestore)
