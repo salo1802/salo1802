@@ -1,16 +1,13 @@
-## Hi there 👋
+# Salomón Sarria
 
-<!--
-**salo1802/salo1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Analyst & AI builder** — I design and ship systems where LLMs do the reasoning and deterministic code does the work: triage agents, RAG pipelines, and automations that remove manual hours from real operations.
 
-Here are some ideas to get you started:
+- 🏢 Product Analyst @ Cali Chamber of Commerce (Entrepreneurship & Innovation)
+- 🎓 MSc Data Science (Universidad Icesi) — thesis: spatiotemporal dengue prediction with CNN-LSTM
+- 🛠️ Python · n8n · RAG (Qdrant, pgvector) · OpenAI/Claude APIs · Flask · Supabase · Power BI
+- 🌎 Cali, Colombia (GMT-5) · Spanish native · English C2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured work:**
+- [piloto_triage](https://github.com/salo1802/piloto_triage) — AI triage agent for a 1,400-applicant/year program (LLM diagnosis + RAG + automated reports)
+- [IAn](https://github.com/salo1802/IAn_0.5) — conversational financial assistant: LLM for language, deterministic Python for the math
+- [Alexandria](https://github.com/salo1802/alexandria) — multi-API visual analysis pipeline (Selenium → Cloud Vision → LLM → Firestore)
